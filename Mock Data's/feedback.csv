@@ -1,0 +1,351 @@
+feedback_id,customer_id,order_id,feedback_date,satisfaction_score,complaint_type,renewal_status
+1,53,163,2025-03-15,1,Damaged Goods,Renewed
+2,36,619,2024-11-10,4,Incomplete Order,Renewed
+3,46,589,2024-11-24,2,Late Delivery,Renewed
+4,84,318,2025-01-09,5,Damaged Goods,Not Renewed
+5,33,602,2025-03-23,4,None,Not Renewed
+6,38,208,2024-10-16,3,None,Not Renewed
+7,37,515,2024-12-17,3,Late Delivery,Not Renewed
+8,89,470,2025-03-07,1,Late Delivery,Not Renewed
+9,98,283,2024-12-31,5,Incomplete Order,Renewed
+10,52,207,2024-12-05,4,Damaged Goods,Not Renewed
+11,48,8,2025-03-08,5,None,Not Renewed
+12,15,147,2024-12-06,1,None,Not Renewed
+13,88,457,2025-02-04,2,Incomplete Order,Not Renewed
+14,60,66,2025-03-26,1,Damaged Goods,Renewed
+15,30,409,2024-06-23,2,Damaged Goods,Not Renewed
+16,73,620,2025-02-03,2,Damaged Goods,Renewed
+17,72,253,2024-11-17,5,Incomplete Order,Renewed
+18,35,539,2024-11-17,1,Late Delivery,Not Renewed
+19,92,337,2025-02-02,4,Late Delivery,Renewed
+20,82,583,2024-12-25,4,Incomplete Order,Not Renewed
+21,15,503,2025-02-15,3,Damaged Goods,Not Renewed
+22,35,472,2024-07-01,5,Damaged Goods,Not Renewed
+23,57,474,2024-07-03,1,Late Delivery,Not Renewed
+24,56,590,2025-03-04,2,Damaged Goods,Renewed
+25,8,41,2025-01-15,4,Damaged Goods,Renewed
+26,9,94,2024-10-13,2,None,Renewed
+27,86,295,2025-01-30,1,Late Delivery,Not Renewed
+28,14,662,2025-03-25,5,None,Not Renewed
+29,37,468,2025-03-18,4,Incomplete Order,Renewed
+30,67,356,2025-01-20,3,Incomplete Order,Renewed
+31,24,305,2024-12-21,2,None,Renewed
+32,89,401,2025-03-14,5,Late Delivery,Not Renewed
+33,80,628,2025-02-06,5,Incomplete Order,Renewed
+34,66,180,2025-02-01,2,Late Delivery,Renewed
+35,10,426,2024-11-20,2,Damaged Goods,Not Renewed
+36,93,256,2024-11-15,4,Late Delivery,Renewed
+37,23,184,2025-03-17,1,Damaged Goods,Renewed
+38,13,633,2024-09-28,4,Late Delivery,Not Renewed
+39,98,443,2024-12-20,1,Damaged Goods,Renewed
+40,16,469,2024-12-26,5,Incomplete Order,Not Renewed
+41,90,394,2024-11-24,4,Late Delivery,Renewed
+42,94,188,2024-08-25,1,Damaged Goods,Renewed
+43,96,681,2025-02-25,5,Late Delivery,Renewed
+44,32,98,2025-02-19,2,Late Delivery,Not Renewed
+45,95,403,2025-01-24,5,Damaged Goods,Not Renewed
+46,36,45,2025-03-03,4,Damaged Goods,Not Renewed
+47,29,246,2024-08-24,3,Damaged Goods,Not Renewed
+48,21,162,2025-03-26,3,Incomplete Order,Not Renewed
+49,99,281,2025-01-09,4,None,Renewed
+50,65,644,2024-12-10,3,Damaged Goods,Renewed
+51,74,551,2025-02-08,1,None,Not Renewed
+52,69,299,2024-05-31,2,Late Delivery,Renewed
+53,7,69,2024-11-21,5,Damaged Goods,Renewed
+54,61,223,2024-12-10,3,None,Not Renewed
+55,70,506,2025-02-03,5,None,Renewed
+56,24,422,2025-02-10,1,Damaged Goods,Renewed
+57,10,567,2025-01-28,3,Late Delivery,Not Renewed
+58,71,125,2024-12-18,4,Incomplete Order,Not Renewed
+59,93,378,2024-10-17,4,Late Delivery,Not Renewed
+60,37,79,2024-10-25,4,None,Renewed
+61,17,108,2024-11-25,4,Damaged Goods,Renewed
+62,16,517,2024-12-10,2,Late Delivery,Renewed
+63,4,334,2025-01-03,4,Late Delivery,Not Renewed
+64,61,420,2025-02-06,5,None,Renewed
+65,29,462,2024-10-16,4,Late Delivery,Not Renewed
+66,14,169,2025-02-26,5,Incomplete Order,Renewed
+67,96,259,2025-03-18,2,Incomplete Order,Renewed
+68,79,213,2025-02-24,1,None,Renewed
+69,31,519,2024-06-04,2,Damaged Goods,Not Renewed
+70,63,46,2025-02-04,3,Incomplete Order,Not Renewed
+71,86,678,2025-02-26,4,Late Delivery,Renewed
+72,89,28,2024-12-02,5,None,Renewed
+73,52,75,2025-01-28,3,Incomplete Order,Renewed
+74,70,473,2025-03-11,3,None,Not Renewed
+75,45,391,2025-03-09,5,None,Renewed
+76,47,352,2025-02-25,2,Damaged Goods,Renewed
+77,5,686,2025-02-10,3,Late Delivery,Renewed
+78,9,200,2024-12-26,1,Damaged Goods,Renewed
+79,37,407,2025-02-07,1,Damaged Goods,Renewed
+80,1,39,2025-03-13,3,None,Renewed
+81,1,11,2025-03-26,3,Late Delivery,Renewed
+82,55,257,2024-10-12,4,None,Not Renewed
+83,9,118,2025-03-18,3,Incomplete Order,Renewed
+84,1,140,2025-03-12,1,None,Renewed
+85,74,335,2025-01-03,5,None,Not Renewed
+86,56,476,2024-06-29,2,Damaged Goods,Renewed
+87,64,497,2024-08-17,4,None,Renewed
+88,82,627,2024-08-23,5,Damaged Goods,Renewed
+89,70,70,2024-11-11,1,Damaged Goods,Not Renewed
+90,8,85,2025-03-12,5,Late Delivery,Not Renewed
+91,57,562,2024-10-11,5,None,Renewed
+92,72,249,2025-02-24,4,Damaged Goods,Not Renewed
+93,21,449,2024-09-13,1,Damaged Goods,Renewed
+94,57,144,2024-09-21,2,Incomplete Order,Renewed
+95,35,483,2024-07-06,2,None,Not Renewed
+96,39,286,2024-09-01,3,Incomplete Order,Renewed
+97,86,166,2024-10-02,5,None,Not Renewed
+98,85,175,2024-12-28,4,None,Not Renewed
+99,9,19,2025-03-26,4,None,Renewed
+100,67,103,2025-02-22,5,Damaged Goods,Not Renewed
+101,43,182,2025-03-17,2,None,Renewed
+102,4,302,2025-03-25,2,Damaged Goods,Renewed
+103,15,128,2024-12-21,3,None,Renewed
+104,49,548,2025-03-04,5,Incomplete Order,Not Renewed
+105,90,669,2024-09-14,4,Damaged Goods,Renewed
+106,40,173,2025-02-26,2,Incomplete Order,Renewed
+107,90,80,2024-11-05,1,Damaged Goods,Renewed
+108,42,12,2025-03-25,2,None,Not Renewed
+109,54,280,2025-01-04,2,Late Delivery,Renewed
+110,46,158,2025-01-09,3,None,Renewed
+111,61,452,2025-02-05,1,Late Delivery,Not Renewed
+112,86,367,2024-11-09,5,None,Renewed
+113,15,183,2025-03-06,4,Incomplete Order,Renewed
+114,28,222,2024-07-23,1,Incomplete Order,Not Renewed
+115,3,36,2025-03-20,4,Damaged Goods,Renewed
+116,43,546,2025-03-21,4,Late Delivery,Not Renewed
+117,6,587,2025-02-12,4,Damaged Goods,Not Renewed
+118,5,453,2025-03-15,3,Late Delivery,Renewed
+119,74,49,2025-02-13,1,Late Delivery,Renewed
+120,9,536,2025-01-25,4,Incomplete Order,Renewed
+121,41,106,2024-10-22,5,None,Not Renewed
+122,69,400,2024-11-30,1,Incomplete Order,Not Renewed
+123,29,316,2025-01-09,4,None,Not Renewed
+124,37,455,2024-10-30,5,Incomplete Order,Renewed
+125,46,54,2025-02-17,3,Late Delivery,Renewed
+126,39,5,2024-09-01,4,Late Delivery,Not Renewed
+127,32,50,2025-01-24,5,None,Renewed
+128,32,387,2024-11-18,5,Late Delivery,Renewed
+129,48,691,2025-02-21,1,Incomplete Order,Renewed
+130,72,665,2024-11-17,1,None,Not Renewed
+131,3,384,2025-01-01,1,Late Delivery,Renewed
+132,100,245,2025-01-28,5,Incomplete Order,Renewed
+133,40,205,2025-03-25,1,Damaged Goods,Renewed
+134,31,675,2024-08-10,1,Late Delivery,Not Renewed
+135,11,17,2024-12-09,3,Incomplete Order,Not Renewed
+136,72,432,2025-02-28,1,Incomplete Order,Not Renewed
+137,92,29,2025-02-28,1,Damaged Goods,Not Renewed
+138,31,15,2025-02-17,2,None,Not Renewed
+139,55,346,2024-12-28,5,Damaged Goods,Renewed
+140,95,197,2025-03-21,1,Late Delivery,Renewed
+141,24,65,2025-01-31,1,Incomplete Order,Renewed
+142,66,226,2025-03-25,3,Incomplete Order,Renewed
+143,77,99,2024-11-04,5,Incomplete Order,Not Renewed
+144,59,172,2024-09-28,3,Incomplete Order,Not Renewed
+145,85,557,2024-09-06,1,Damaged Goods,Not Renewed
+146,85,631,2024-11-25,4,Incomplete Order,Not Renewed
+147,79,666,2025-03-07,4,Late Delivery,Not Renewed
+148,16,525,2024-12-18,4,Incomplete Order,Renewed
+149,97,111,2024-11-24,1,Damaged Goods,Renewed
+150,38,616,2024-08-18,3,Incomplete Order,Not Renewed
+151,15,331,2024-08-27,2,Damaged Goods,Not Renewed
+152,67,195,2025-03-16,4,Late Delivery,Renewed
+153,30,663,2025-02-28,1,Damaged Goods,Renewed
+154,76,405,2024-12-02,5,Late Delivery,Not Renewed
+155,55,439,2025-03-09,1,Damaged Goods,Renewed
+156,2,124,2025-03-15,3,Damaged Goods,Not Renewed
+157,25,238,2025-03-07,2,Incomplete Order,Not Renewed
+158,84,219,2025-03-12,1,Late Delivery,Not Renewed
+159,83,109,2025-01-03,2,None,Renewed
+160,73,366,2024-11-16,1,Incomplete Order,Not Renewed
+161,21,332,2024-11-03,5,None,Renewed
+162,99,178,2025-02-02,5,Damaged Goods,Not Renewed
+163,31,16,2024-12-24,5,Damaged Goods,Renewed
+164,69,412,2025-02-11,1,Incomplete Order,Not Renewed
+165,86,324,2025-02-21,4,Incomplete Order,Not Renewed
+166,3,13,2025-03-14,5,None,Not Renewed
+167,16,399,2025-01-21,5,Incomplete Order,Not Renewed
+168,75,218,2024-07-03,1,Incomplete Order,Renewed
+169,8,693,2025-02-10,2,None,Not Renewed
+170,5,559,2025-03-09,1,Damaged Goods,Renewed
+171,71,68,2024-10-15,5,None,Not Renewed
+172,70,605,2024-08-31,2,None,Not Renewed
+173,17,642,2024-11-09,4,Damaged Goods,Not Renewed
+174,2,655,2025-01-01,4,Incomplete Order,Not Renewed
+175,15,648,2024-07-28,1,Damaged Goods,Not Renewed
+176,22,224,2025-01-03,3,Late Delivery,Renewed
+177,57,421,2025-02-13,1,Incomplete Order,Renewed
+178,44,309,2025-03-26,2,Late Delivery,Renewed
+179,98,512,2024-07-20,3,None,Renewed
+180,86,105,2024-12-02,4,Incomplete Order,Not Renewed
+181,52,176,2024-09-24,4,Late Delivery,Not Renewed
+182,58,258,2024-08-25,1,Incomplete Order,Renewed
+183,59,657,2024-12-09,4,Damaged Goods,Renewed
+184,14,333,2024-09-18,5,Late Delivery,Not Renewed
+185,25,398,2024-11-04,2,Incomplete Order,Renewed
+186,7,137,2024-12-17,1,Damaged Goods,Renewed
+187,90,341,2025-03-24,5,Damaged Goods,Renewed
+188,83,667,2025-01-28,4,None,Not Renewed
+189,60,326,2024-09-19,2,Damaged Goods,Renewed
+190,12,501,2025-02-27,3,Incomplete Order,Renewed
+191,67,436,2024-10-23,3,Damaged Goods,Not Renewed
+192,39,342,2024-10-28,3,Damaged Goods,Renewed
+193,90,247,2025-01-18,1,None,Renewed
+194,9,35,2024-10-05,3,Late Delivery,Not Renewed
+195,49,556,2024-12-15,5,None,Renewed
+196,100,10,2024-10-12,3,Late Delivery,Not Renewed
+197,33,312,2025-02-12,3,Damaged Goods,Not Renewed
+198,96,467,2025-03-26,1,Late Delivery,Not Renewed
+199,51,300,2025-02-04,2,None,Not Renewed
+200,87,230,2025-03-05,1,Late Delivery,Not Renewed
+201,88,196,2024-09-06,4,Incomplete Order,Renewed
+202,82,262,2024-09-07,5,Incomplete Order,Not Renewed
+203,48,328,2024-11-03,1,None,Renewed
+204,98,380,2024-11-05,2,Damaged Goods,Renewed
+205,21,120,2025-03-12,4,None,Not Renewed
+206,18,632,2025-01-19,3,Damaged Goods,Not Renewed
+207,73,301,2024-11-03,2,Damaged Goods,Renewed
+208,76,361,2025-03-25,4,None,Renewed
+209,26,7,2025-02-16,2,Damaged Goods,Not Renewed
+210,53,496,2025-03-04,1,Damaged Goods,Renewed
+211,53,685,2025-03-24,1,Incomplete Order,Not Renewed
+212,31,578,2025-01-20,1,Incomplete Order,Not Renewed
+213,48,389,2024-07-07,4,Damaged Goods,Renewed
+214,26,460,2024-09-29,2,Incomplete Order,Not Renewed
+215,18,64,2024-10-19,3,Late Delivery,Not Renewed
+216,72,159,2024-07-11,4,None,Renewed
+217,39,122,2024-12-08,3,None,Not Renewed
+218,66,528,2025-01-17,2,Late Delivery,Renewed
+219,60,220,2025-01-25,1,Incomplete Order,Renewed
+220,85,388,2025-01-27,3,Late Delivery,Renewed
+221,47,643,2024-11-21,1,Damaged Goods,Not Renewed
+222,28,697,2025-02-14,5,Late Delivery,Not Renewed
+223,18,676,2025-02-11,4,Damaged Goods,Not Renewed
+224,84,31,2025-01-15,4,Late Delivery,Not Renewed
+225,12,71,2025-03-18,2,Incomplete Order,Renewed
+226,25,192,2024-08-30,2,Damaged Goods,Renewed
+227,11,571,2025-01-24,3,Incomplete Order,Not Renewed
+228,56,152,2025-02-19,2,None,Renewed
+229,34,104,2024-12-21,5,Incomplete Order,Renewed
+230,34,78,2024-11-18,5,Incomplete Order,Renewed
+231,6,193,2025-03-26,1,Incomplete Order,Not Renewed
+232,71,521,2024-07-16,1,Damaged Goods,Renewed
+233,78,329,2025-02-20,2,None,Renewed
+234,69,20,2025-03-04,5,Incomplete Order,Renewed
+235,6,484,2024-07-10,1,None,Not Renewed
+236,34,372,2025-03-24,5,Damaged Goods,Renewed
+237,42,307,2025-01-02,2,Damaged Goods,Not Renewed
+238,43,228,2024-12-26,4,Late Delivery,Not Renewed
+239,63,379,2025-03-16,1,Damaged Goods,Renewed
+240,53,450,2024-12-01,3,Damaged Goods,Not Renewed
+241,40,635,2024-09-11,3,None,Renewed
+242,20,526,2025-03-15,3,Late Delivery,Renewed
+243,21,143,2024-12-10,1,Late Delivery,Renewed
+244,43,700,2025-03-23,3,Incomplete Order,Not Renewed
+245,96,330,2024-08-28,4,Damaged Goods,Renewed
+246,69,656,2024-12-17,4,Incomplete Order,Not Renewed
+247,71,390,2025-01-13,4,Damaged Goods,Not Renewed
+248,17,21,2024-10-23,3,Late Delivery,Renewed
+249,10,267,2025-03-12,1,Incomplete Order,Not Renewed
+250,68,406,2025-02-02,3,Damaged Goods,Not Renewed
+251,88,597,2025-01-22,2,Damaged Goods,Renewed
+252,37,540,2025-03-13,5,None,Renewed
+253,97,417,2024-11-25,1,Incomplete Order,Renewed
+254,89,148,2025-03-22,1,Incomplete Order,Renewed
+255,38,385,2025-02-17,4,Late Delivery,Renewed
+256,96,535,2024-07-07,5,Damaged Goods,Not Renewed
+257,85,618,2025-03-03,4,Incomplete Order,Renewed
+258,77,434,2025-01-17,1,Incomplete Order,Renewed
+259,67,376,2025-03-24,4,Damaged Goods,Not Renewed
+260,5,170,2025-02-14,3,None,Renewed
+261,21,520,2024-05-29,4,Late Delivery,Not Renewed
+262,87,480,2024-08-16,4,Late Delivery,Renewed
+263,30,580,2025-02-18,5,Damaged Goods,Renewed
+264,43,277,2024-07-22,3,Late Delivery,Renewed
+265,87,629,2024-08-21,2,None,Not Renewed
+266,71,514,2024-11-17,5,Late Delivery,Renewed
+267,64,598,2024-12-22,4,None,Not Renewed
+268,2,411,2025-02-07,4,Damaged Goods,Renewed
+269,30,625,2025-02-22,2,Late Delivery,Renewed
+270,35,357,2025-03-09,5,Incomplete Order,Renewed
+271,64,369,2025-02-04,5,None,Not Renewed
+272,13,114,2025-01-25,3,Incomplete Order,Not Renewed
+273,52,504,2024-06-22,3,Late Delivery,Renewed
+274,5,500,2024-12-01,2,Late Delivery,Renewed
+275,59,677,2025-01-10,3,Late Delivery,Renewed
+276,43,165,2025-02-28,3,Incomplete Order,Not Renewed
+277,87,651,2025-03-19,1,Incomplete Order,Renewed
+278,82,227,2024-11-01,5,Late Delivery,Renewed
+279,17,323,2025-03-16,3,Damaged Goods,Not Renewed
+280,14,4,2025-03-11,1,Damaged Goods,Renewed
+281,32,34,2025-03-15,4,Damaged Goods,Not Renewed
+282,86,252,2025-03-14,1,Late Delivery,Not Renewed
+283,39,586,2025-02-11,2,Damaged Goods,Renewed
+284,20,558,2025-01-02,3,Late Delivery,Renewed
+285,97,27,2024-11-18,4,Damaged Goods,Renewed
+286,73,325,2025-03-17,4,Incomplete Order,Not Renewed
+287,53,73,2024-11-11,3,Incomplete Order,Not Renewed
+288,82,661,2025-01-03,2,None,Renewed
+289,65,560,2024-08-11,4,Damaged Goods,Renewed
+290,70,47,2024-12-16,4,Late Delivery,Not Renewed
+291,7,89,2025-03-23,2,None,Renewed
+292,18,304,2024-12-12,2,Incomplete Order,Not Renewed
+293,90,282,2024-11-08,2,Damaged Goods,Renewed
+294,36,413,2024-12-30,3,Incomplete Order,Renewed
+295,70,121,2024-12-07,4,Incomplete Order,Renewed
+296,58,260,2025-01-29,2,Late Delivery,Not Renewed
+297,33,478,2024-11-04,2,None,Not Renewed
+298,63,543,2025-03-21,1,Incomplete Order,Renewed
+299,8,465,2025-01-10,5,Late Delivery,Not Renewed
+300,64,240,2024-10-11,4,Late Delivery,Renewed
+301,80,160,2024-09-04,1,Late Delivery,Renewed
+302,39,611,2025-03-17,2,Late Delivery,Not Renewed
+303,24,370,2025-03-16,2,Late Delivery,Renewed
+304,75,102,2025-03-19,1,Damaged Goods,Renewed
+305,85,126,2024-11-09,2,Incomplete Order,Not Renewed
+306,50,533,2025-03-02,5,None,Renewed
+307,68,91,2025-01-26,3,Damaged Goods,Not Renewed
+308,97,311,2025-02-20,2,Incomplete Order,Renewed
+309,39,673,2024-09-10,5,Damaged Goods,Renewed
+310,88,156,2024-08-10,1,Late Delivery,Renewed
+311,31,689,2024-09-12,5,Damaged Goods,Renewed
+312,52,296,2025-03-17,5,None,Renewed
+313,81,511,2025-02-25,1,Incomplete Order,Renewed
+314,71,522,2025-03-18,2,None,Not Renewed
+315,90,679,2025-03-25,2,Damaged Goods,Not Renewed
+316,38,617,2024-12-10,2,None,Renewed
+317,25,508,2025-03-16,4,Incomplete Order,Renewed
+318,36,404,2025-03-20,2,Late Delivery,Not Renewed
+319,34,185,2025-01-08,3,Late Delivery,Not Renewed
+320,39,204,2024-08-30,1,Damaged Goods,Renewed
+321,56,194,2025-03-19,1,Incomplete Order,Renewed
+322,95,86,2025-03-19,4,Damaged Goods,Renewed
+323,84,242,2025-02-09,4,Incomplete Order,Not Renewed
+324,32,531,2025-01-26,5,Damaged Goods,Not Renewed
+325,27,217,2025-03-19,1,Damaged Goods,Not Renewed
+326,83,634,2025-02-23,3,Damaged Goods,Renewed
+327,61,313,2024-12-31,1,Incomplete Order,Renewed
+328,13,584,2025-03-20,3,Incomplete Order,Not Renewed
+329,22,594,2025-02-18,4,None,Renewed
+330,51,570,2024-11-26,1,None,Not Renewed
+331,82,490,2024-10-28,2,Late Delivery,Not Renewed
+332,81,427,2025-03-08,2,Incomplete Order,Not Renewed
+333,80,577,2024-09-21,3,Damaged Goods,Not Renewed
+334,43,43,2025-03-21,4,None,Not Renewed
+335,47,154,2025-03-14,5,Damaged Goods,Renewed
+336,84,670,2024-12-04,2,None,Not Renewed
+337,54,276,2024-07-02,5,None,Not Renewed
+338,23,641,2025-02-26,5,Incomplete Order,Not Renewed
+339,49,284,2024-11-24,1,None,Renewed
+340,62,90,2025-01-17,1,Incomplete Order,Not Renewed
+341,27,132,2024-11-12,1,Incomplete Order,Renewed
+342,42,549,2024-08-15,3,None,Renewed
+343,58,544,2025-02-03,1,Late Delivery,Not Renewed
+344,86,157,2025-01-07,3,Incomplete Order,Not Renewed
+345,6,233,2025-02-20,4,Incomplete Order,Not Renewed
+346,72,146,2024-11-15,2,Incomplete Order,Renewed
+347,71,532,2025-03-25,1,Incomplete Order,Renewed
+348,69,288,2025-02-04,2,None,Renewed
+349,43,393,2024-10-18,4,Damaged Goods,Renewed
+350,28,371,2024-12-28,1,Late Delivery,Not Renewed

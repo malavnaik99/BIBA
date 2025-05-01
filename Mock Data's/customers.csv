@@ -1,0 +1,101 @@
+customer_id,customer_name,customer_type,region
+1,Divyansh Tripathi,Key Account,Assam
+2,Vritika Bora,Retailer,Ladakh
+3,Armaan Dhar,Retailer,Assam
+4,Rasha Thakur,Key Account,Bihar
+5,Tara Sastry,Wholesaler,Rajasthan
+6,Alia Randhawa,Retailer,Goa
+7,Dhanush Andra,Retailer,Punjab
+8,Madhav Tiwari,Retailer,Andhra Pradesh
+9,Ira Seth,Key Account,Tamil Nadu
+10,Faiyaz Soni,Retailer,Odisha
+11,Miraan Dora,Key Account,Uttar Pradesh
+12,Badal Dar,Key Account,Chandigarh
+13,Navya Sundaram,Key Account,Madhya Pradesh
+14,Chirag Bhakta,Retailer,Rajasthan
+15,Kimaya Loyal,Key Account,Uttar Pradesh
+16,Mohanlal Kurian,Wholesaler,Tamil Nadu
+17,Saanvi Bora,Retailer,Himachal Pradesh
+18,Aaryahi Acharya,Retailer,Gujarat
+19,Nakul Mangal,Retailer,Sikkim
+20,Kabir Salvi,Retailer,Uttarakhand
+21,Eshani Gole,Retailer,Chandigarh
+22,Eshani Magar,Key Account,Gujarat
+23,Vidur Vohra,Key Account,Chandigarh
+24,Azad Ravi,Retailer,Jharkhand
+25,Umang Date,Key Account,Arunachal Pradesh
+26,Taimur Subramaniam,Retailer,Tripura
+27,Shray Dara,Key Account,Ladakh
+28,Trisha Mannan,Key Account,Assam
+29,Himmat Bains,Key Account,Odisha
+30,Inaaya  Gara,Key Account,Karnataka
+31,Vanya Sani,Wholesaler,Jharkhand
+32,Rasha Khatri,Retailer,Jammu and Kashmir
+33,Zoya Bir,Wholesaler,Goa
+34,Saanvi Soni,Key Account,Goa
+35,Armaan Din,Wholesaler,Manipur
+36,Azad Sule,Retailer,Maharashtra
+37,Arnav Dugar,Retailer,Jharkhand
+38,Drishya Issac,Key Account,Karnataka
+39,Ojas Badami,Wholesaler,Chandigarh
+40,Reyansh Gokhale,Wholesaler,Andaman and Nicobar Islands
+41,Neysa Gandhi,Wholesaler,Andaman and Nicobar Islands
+42,Gatik Sura,Retailer,Sikkim
+43,Adira Walia,Retailer,Delhi
+44,Shanaya Kannan,Wholesaler,Himachal Pradesh
+45,Shayak Chander,Retailer,Sikkim
+46,Rania Kothari,Retailer,Odisha
+47,Yasmin Lad,Wholesaler,Telangana
+48,Zaina Barman,Retailer,West Bengal
+49,Dhanush Kale,Wholesaler,Assam
+50,Inaaya  Din,Wholesaler,Tripura
+51,Ehsaan Baral,Key Account,Meghalaya
+52,Nitara Divan,Wholesaler,Maharashtra
+53,Alia Ramachandran,Retailer,Chhattisgarh
+54,Ivan Sant,Key Account,Jharkhand
+55,Stuvan Kapoor,Wholesaler,Puducherry
+56,Samiha Virk,Key Account,Gujarat
+57,Mannat Kalla,Retailer,Andhra Pradesh
+58,Navya Sule,Wholesaler,Jharkhand
+59,Dhanuk Sampath,Retailer,Punjab
+60,Tejas Kunda,Key Account,Lakshadweep
+61,Aniruddh Bora,Wholesaler,Goa
+62,Arhaan Bhatnagar,Key Account,Puducherry
+63,Miraan Sood,Key Account,Gujarat
+64,Taran Handa,Wholesaler,Jammu and Kashmir
+65,Lavanya Bose,Key Account,Rajasthan
+66,Tushar Grewal,Retailer,Karnataka
+67,Tarini Barad,Key Account,Odisha
+68,Eva Goswami,Retailer,Karnataka
+69,Saksham Sachar,Retailer,Chhattisgarh
+70,Nishith Bhandari,Key Account,Nagaland
+71,Sara Chander,Retailer,Telangana
+72,Ela Hari,Wholesaler,Tamil Nadu
+73,Prerak Soman,Retailer,Goa
+74,Renee Kapoor,Retailer,Chhattisgarh
+75,Manjari Dhar,Retailer,Kerala
+76,Krish Bhat,Wholesaler,Jammu and Kashmir
+77,Devansh Kara,Wholesaler,Mizoram
+78,Riya Kapadia,Wholesaler,Ladakh
+79,Zoya Sanghvi,Key Account,Mizoram
+80,Nitya Ghose,Wholesaler,Delhi
+81,Ira Madan,Retailer,Himachal Pradesh
+82,Rohan Varghese,Wholesaler,Haryana
+83,Riya Savant,Wholesaler,Puducherry
+84,Yashvi Golla,Retailer,Assam
+85,Gatik Chaudhry,Key Account,Telangana
+86,Miraan Subramanian,Wholesaler,Odisha
+87,Anay Gole,Key Account,Uttar Pradesh
+88,Anahita Suri,Key Account,Uttarakhand
+89,Manjari Wagle,Key Account,Himachal Pradesh
+90,Chirag Dubey,Retailer,Delhi
+91,Saanvi Sem,Key Account,Telangana
+92,Eshani Jha,Key Account,Chandigarh
+93,Kashvi Bansal,Retailer,Rajasthan
+94,Samar Rege,Key Account,Telangana
+95,Alisha Kaul,Key Account,Goa
+96,Gokul Vyas,Retailer,Uttarakhand
+97,Tiya Bhattacharyya,Retailer,Chandigarh
+98,Damini Vig,Wholesaler,Delhi
+99,Gatik Lad,Wholesaler,Mizoram
+100,Romil Butala,Wholesaler,Assam
